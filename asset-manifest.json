@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ebay-search-exercise/static/css/main.112de7b1.chunk.css",
+    "main.js": "/ebay-search-exercise/static/js/main.7b24590d.chunk.js",
+    "main.js.map": "/ebay-search-exercise/static/js/main.7b24590d.chunk.js.map",
+    "runtime-main.js": "/ebay-search-exercise/static/js/runtime-main.32e82a5f.js",
+    "runtime-main.js.map": "/ebay-search-exercise/static/js/runtime-main.32e82a5f.js.map",
+    "static/js/2.eafa9142.chunk.js": "/ebay-search-exercise/static/js/2.eafa9142.chunk.js",
+    "static/js/2.eafa9142.chunk.js.map": "/ebay-search-exercise/static/js/2.eafa9142.chunk.js.map",
+    "index.html": "/ebay-search-exercise/index.html",
+    "static/css/main.112de7b1.chunk.css.map": "/ebay-search-exercise/static/css/main.112de7b1.chunk.css.map",
+    "static/js/2.eafa9142.chunk.js.LICENSE.txt": "/ebay-search-exercise/static/js/2.eafa9142.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32e82a5f.js",
+    "static/js/2.eafa9142.chunk.js",
+    "static/css/main.112de7b1.chunk.css",
+    "static/js/main.7b24590d.chunk.js"
+  ]
+}
